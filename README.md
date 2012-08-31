@@ -1,0 +1,4 @@
+PICAL
+=====
+
+Aplicaciones de PICAL
